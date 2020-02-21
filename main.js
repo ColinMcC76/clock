@@ -7,7 +7,6 @@ function showTime() {
     if (h > 12){
         h = h-12
         amPM = " PM"
-        document.html.style.backgroundColor = "black";
  
     }
     if (h < 10) {
